@@ -22,7 +22,7 @@ return data.length ===0 ? <h1>...Cargando</h1> :
            
         </Main>
     )
-}'
+}
 
 
 export default App;
